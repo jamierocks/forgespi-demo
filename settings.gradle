@@ -1,0 +1,6 @@
+rootProject.name = 'forgespi-demo'
+include 'Core'
+include 'DemoMod'
+include 'ProperImpl'
+include 'WorkingImpl'
+
